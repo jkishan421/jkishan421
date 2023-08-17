@@ -4,8 +4,7 @@
 
 
 - 🔭 I’m currently working as Software Engineer.
-- 🌱 I’m currently learning Data Science and Machine Learning.
-- 👯 I’m looking to collaborate on FastAPI and Python.
+- 👯 I’m looking to collaborate on FastAPI, Flask, and Python.
 - 🤔 I’m looking for passionate people with common interests and goals. 
 - 💬 Ask me about Python Backend Development.
 - 📫 How to reach me: jkishan421@gmail.com
