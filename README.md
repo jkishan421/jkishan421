@@ -1,6 +1,7 @@
 ### Jai Kishan
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jkishan421)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jkishan421@gmail.com)
 
 
 - 🔭 I’m currently working as Software Engineer.
