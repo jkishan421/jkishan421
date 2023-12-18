@@ -4,9 +4,9 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jkishan421)
 
 
-- 🔭 I’m currently working as Software Engineer.
+- 🔭 I’m currently working as a Software Engineer.
 - 👯 I’m looking to collaborate on FastAPI, Flask, and Python.
-- 🤔 I’m looking for passionate people with common interests and goals. 
+- 😊 I’m looking for passionate people with common interests and goals. 
 - 💬 Ask me about Python Backend Development.
 - 📫 How to reach me: jkishan421@gmail.com
 
